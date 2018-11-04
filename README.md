@@ -12,12 +12,13 @@ Steps are as follows...
 	```/trade_reporting_engine/target/trade_reporting_engine.jar```
 
 4. Now from command line same can be executed in the following 2 ways...
+	
 	```java -jar target/trade_reporting_engine.jar```
 
 Executing the jar in the above way will fetch test data from default file location which is as follows
 /trade_reporting_engine/src/main/resources/trade.csv
 
-	```java -jar target/trade_reporting_engine.jar <path of the csv file>```
+	``` java -jar target/trade_reporting_engine.jar <path of the csv file>  ```
 
 Executing the jar in the above way will fetch test data from specified path location. 
 
