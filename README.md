@@ -4,6 +4,7 @@
 Steps are as follows...
 
 1. Clone the master branch of the project in your local
+	
 	```git clone -b master https://github.com/debabrata1708/trade_reporting_engine.git```
 
 2. Perform maven build of the project
@@ -18,7 +19,7 @@ Steps are as follows...
 Executing the jar in the above way will fetch test data from default file location which is as follows
 /trade_reporting_engine/src/main/resources/trade.csv
 
-	``` java -jar target/trade_reporting_engine.jar <path of the csv file>  ```
+	```java -jar target/trade_reporting_engine.jar <path of the csv file>```
 
 Executing the jar in the above way will fetch test data from specified path location. 
 
