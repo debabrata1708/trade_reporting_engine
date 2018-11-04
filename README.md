@@ -10,6 +10,7 @@ Steps are as follows...
 2. Perform maven build of the project
 
 3. After successful maven build executable jar file will be generated in the following location
+
 	```/trade_reporting_engine/target/trade_reporting_engine.jar```
 
 4. Now from command line same can be executed in the following 2 ways...
