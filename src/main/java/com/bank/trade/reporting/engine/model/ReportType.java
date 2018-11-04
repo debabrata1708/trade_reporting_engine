@@ -1,0 +1,8 @@
+package com.bank.trade.reporting.engine.model;
+
+public enum ReportType {
+	INCOMING_TRADE_RANKING_REPORT, //
+	INCOMING_TRADE_SETTLEMENT_REPORT, //
+	OUTGOING_TRADE_RANKING_REPORT, //
+	OUTGOING_TRADE_SETTLEMENT_REPORT
+}

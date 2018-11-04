@@ -1,0 +1,11 @@
+tradeEntityName,buySell,agreedFx,currency,instructionDate,settlementDate,units,pricePerUnit
+bar,B,0.75,AED,01-Jan-2018,02-Jan-2018,118,220.25
+bar,S,0.44,SAR,01-Jan-2018,02-Jan-2018,220,80.25
+foo,B,0.40,GBP,01-Jan-2018,03-Jan-2018,100,150.5
+foo,S,0.32,USD,01-Jan-2018,03-Jan-2018,150,70.20
+bar,B,0.29,SAR,01-Jan-2018,04-Jan-2018,226,190.33
+fobar,S,0.49,INR,01-Jan-2018,04-Jan-2018,189,155.25
+foo,B,0.50,SAR,01-Jan-2018,05-Jan-2018,200,100.25
+foo,S,0.44,JPY,01-Jan-2018,05-Jan-2018,128,180.25
+fobar,B,0.58,JPY,01-Jan-2018,06-Jan-2018,100,176.25
+bar,S,0.22,AED,01-Jan-2018,06-Jan-2018,360,120.25
